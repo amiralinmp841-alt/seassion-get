@@ -1,3 +1,4 @@
 telethon==1.33.1
 async-timeout==4.0.3
 pysocks==1.7.1
+python-telegram-bot
