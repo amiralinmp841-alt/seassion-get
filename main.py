@@ -17,8 +17,8 @@ from telethon.errors.rpcerrorlist import (
 )
 
 # --- تنظیمات ---
-BOT_TOKEN = "8051561278:AAEuoYj7g0jtHMwkFhOI6HyibZwTwZcDohA"  # توکن ربات خودت را اینجا بگذار
-OWNER_ID = 849255691  # آیدی عددی خودت را اینجا بگذار
+BOT_TOKEN = "xxxxxxxx"  # توکن ربات خودت را اینجا بگذار
+OWNER_ID = xxxxxxx  # آیدی عددی خودت را اینجا بگذار
 # --- تنظیمات ---
 
 # وضعیت هر کاربر (برای نگهداری داده‌ها در طول مکالمه)
