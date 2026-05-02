@@ -10,8 +10,8 @@ from telegram.ext import (
 from telethon import TelegramClient
 from telethon.sessions import StringSession
 
-BOT_TOKEN = "YOUR_BOT_TOKEN"
-OWNER_ID = 123456789  # آیدی عددی خودت
+BOT_TOKEN = "8051561278:AAEuoYj7g0jtHMwkFhOI6HyibZwTwZcDohA"
+OWNER_ID = 849255691  # آیدی عددی خودت
 
 # وضعیت هر کاربر
 user_data_store = {}
