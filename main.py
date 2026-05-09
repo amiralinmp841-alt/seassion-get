@@ -17,7 +17,7 @@ from telethon.errors.rpcerrorlist import (
 )
 
 # --- تنظیمات ---
-BOT_TOKEN = "8051561278:AAEuoYj7g0jtHMwkFhOI6HyibZwTwZcDohA"  # توکن ربات خودت را اینجا بگذار
+BOT_TOKEN = "8778171198:AAHylKaETHLzmBNNq5LzOBLNcIjUPLu_-Sc"  # توکن ربات خودت را اینجا بگذار
 OWNER_ID = 849255691  # آیدی عددی خودت را اینجا بگذار
 # --- تنظیمات ---
 
